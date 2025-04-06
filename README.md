@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Junnior 1998
+# 👨‍💻 Junnior 1998
 
 **`Desenvolvedor junior Fullstack`**
 
