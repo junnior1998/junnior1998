@@ -2,7 +2,7 @@
 
 **`Desenvolvedor junior Fullstack`**
 
-Me chamo Roque Jose, tenho 26 anos e sou natural de Cruz das Almas Bahia. Concluí o ensino médio no Alberto Torres II BA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Boletim-DevTech](https://www.youtube.com/@Boletim-DevTech)", onde ensino a Sobre Widows, Mac e um pouco de programaçao, Compartilho alguns projetos no meu Instagram Chamado "[Junior Almeida](https://www.instagram.com/junnior.1998/)".
+Me chamo Roque Jose, tenho 26 anos e sou natural de Cruz das Almas Bahia. Concluí o ensino médio no Alberto Torres II BA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Boletim-DevTech](https://www.youtube.com/@Boletim-DevTech)", onde ensino a Sobre Widows, Mac e um pouco de programaçao, Compartilho alguns projetos no meu Instagram Chamado "[Junior Almeida](https://www.instagram.com/junnior.1998/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Boletim-DevTech?sub_confirmation=1">
